@@ -199,9 +199,6 @@ python -m pytest tests/
 - **Error Handling**: Comprehensive try-except blocks
 - **API Design**: RESTful FastAPI endpoints
 
-## 📄 License
-
-MIT License - feel free to use for your projects!
 
 ## 🙏 Acknowledgments
 
@@ -211,3 +208,4 @@ Built with:
 - [LangChain](https://python.langchain.com/)
 - [Google Gemini](https://ai.google.dev/)
 - [ChromaDB](https://www.trychroma.com/)
+
